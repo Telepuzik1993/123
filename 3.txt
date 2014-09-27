@@ -1,1 +1,2 @@
 merge third file + changes
+third file + changes
